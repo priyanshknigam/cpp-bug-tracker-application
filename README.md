@@ -1,6 +1,6 @@
 The repository consists of a .cpp file having code for a Bug Tracker application.
 
-Code uses ctime to add date and time while adding/updating bug status report, code also uses fstream to create/edit a bug report file.
+Code uses ctime to add date and time while adding/updating bug status report, code also uses fstream to create/edit bug report files.
 
 Users can store bug details along with its current status. Users can update the bug status for an already created bug entry, the date and time will be added along with updated status for future references.
 
