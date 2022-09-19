@@ -1,3 +1,4 @@
+# Bug Tracker Application (C++)
 The repository consists of a .cpp file having code for a Bug Tracker application.
 
 Code uses ctime to add date and time while adding/updating bug status report, code also uses fstream to create/edit bug report files.
